@@ -1,5 +1,4 @@
 dependencies:
-  - pyensae
   - qgrid
   - rpy2
   - tzlocal
