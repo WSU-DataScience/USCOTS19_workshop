@@ -1,9 +1,9 @@
 ### install regular packages
 
-install.packages("reticulate") # python support in RMarkdown
-install.packages("ggplot2") # for plotting
-install.packages(c("rmarkdown", "caTools", "bitops")) # for knitting
-install.packages("dplyr")
+install.packages("reticulate",repos = "http://cran.us.r-project.org") # python support in RMarkdown
+install.packages("ggplot2",repos = "http://cran.us.r-project.org") # for plotting
+install.packages(c("rmarkdown", "caTools", "bitops"),repos = "http://cran.us.r-project.org") # for knitting
+install.packages("dplyr",repos = "http://cran.us.r-project.org")
 
 ### install bioconductor packages
 # install.packages("BiocManager")
