@@ -31,15 +31,15 @@ packrat/src/
 *cache/*
 
 # exclude output files
-*.pdf
-*.html
-*.png
-*.jpeg
-*.jpg
-*.pptx
-*.docx
-*.xlsx
-*.csv
+#*.pdf
+#*.html
+#*.png
+#*.jpeg
+#*.jpg
+#*.pptx
+#*.docx
+#*.xlsx
+#*.csv
 
 # allow all files in data
 #!data/*
