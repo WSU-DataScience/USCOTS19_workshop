@@ -42,7 +42,7 @@ packrat/src/
 *.csv
 
 # allow all files in data
-!data/*
+#!data/*
 
 # allow all files in documents
 !documents/*
