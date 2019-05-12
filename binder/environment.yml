@@ -10,6 +10,7 @@ dependencies:
   - rise
   - pip
   - librosa
+  - seaborn
   - pip:
     - pyensae
     - qgrid
