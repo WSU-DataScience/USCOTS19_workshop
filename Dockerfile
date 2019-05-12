@@ -8,6 +8,6 @@ RUN chown -R ${NB_UID} ${HOME}
 USER $NB_UID
 
 # Additional python library
-RUN pip install --no-cache-dir pyensae qgrid
+RUN pip install --no-cache-dir pyensae qgrid librosa
 
 USER ${NB_USER}
