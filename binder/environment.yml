@@ -1,4 +1,12 @@
+channels:
+  - damianavila82
+  - conda-forge
 dependencies:
-  - matplotlib
+  - python
   - numpy
+  - matplotlib
   - pandas
+  - bokeh
+  - rise
+  - pyensae
+
