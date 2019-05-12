@@ -9,6 +9,7 @@ dependencies:
   - bokeh
   - rise
   - pip
+  - librosa
   - pip:
     - pyensae
     - qgrid
