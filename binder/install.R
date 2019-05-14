@@ -5,6 +5,7 @@ install.packages("ggplot2") # for plotting
 install.packages("dplyr") # for plotting
 install.packages("tidyr") # for plotting
 install.packages("rpart") # for plotting
+install.packages("readr")
 install.packages("rpart.plot") # for plotting
 install.packages(c("rmarkdown", "caTools", "bitops")) # for knitting
 
