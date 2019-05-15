@@ -1,0 +1,17 @@
+Bacteria,BacteriaAbbr,Penicilin,Streptom,Neomycin,Gram Staining 
+Aerobacter aerogenes,Aerobact,870,1,1.6,negative
+Brucella abortus,Brucella ab,1,2,0.02,negative
+Brucella antracis,Brucella an,0.001,0.01,0.007,positive
+Diplococcus pneumoniae,Diplococc,0.005,11,10,positive
+Escherichia coli,Escherichi,100,0.4,0.1,negative
+Klebsiella pneumoniae,Klebsiella,850,1.2,1,negative
+Mycobacterium tuberculosis,Mycobact,800,5,2,negative
+Proteus vulgaris,Proteus v,3,0.1,0.1,negative
+Pseudomonas aeruginosa,Pseudom,850,2,0.4,negative
+Salmonella (Eberthella) typhosa,Salmonella t,1,0.4,0.008,negative
+Salmonella schottmuelleri,Salmonells s,10,0.8,0.09,negative
+Staphylococcus albus,Staphyloc al,0.007,0.1,0.001,positive
+Staphylococcus aureus,Staphyloc au,0.03,0.03,0.001,positive
+Streptococcus fecalis,Streptoco f,1,1,0.1,positive
+Streptococcus hemolyticus,Streptoco h,0.001,14,10,positive
+Streptococcus viridans,Streptoco v,0.005,10,40,positive
