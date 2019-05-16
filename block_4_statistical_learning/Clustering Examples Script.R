@@ -1,7 +1,4 @@
 
-if (!requireNamespace("BiocManager", quietly = TRUE))
-    install.packages("BiocManager")
-BiocManager::install("mixOmics")
 
 require(cluster)
 require(corrplot)
@@ -83,7 +80,7 @@ cim(t(gene.mat),col.cex=.25,color=rainbow(100))
 
 
 # Sports Diffficulty 
-portDiff = read.csv(file="http://course1.winona.edu/bdeppa/DSCI%20415/Data/SportsDifficulty.txt",header=T)
+SportDiff = read.csv(file="http://course1.winona.edu/bdeppa/DSCI%20415/Data/SportsDifficulty.txt",header=T)
 names(SportDiff)
 head(SportDiff)
 summary(SportDiff)
