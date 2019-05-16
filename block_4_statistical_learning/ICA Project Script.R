@@ -1,3 +1,4 @@
+require(jpeg)
 temp1 = "http://course1.winona.edu/bdeppa/DSCI%20Workshop/Temp%20Files/Image1.jpg"
 z1 = tempfile()
 download.file(temp1,z1,mode="wb")
